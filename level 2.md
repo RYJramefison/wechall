@@ -3,7 +3,7 @@ Se déplacer dans le répertoire "/home/level/02"
 ```ssh
 cd /home/level/02
 ```
-Afficher la liste détaillée de tous les fichiers et répertoires présents dans ce répertoire 
+Afficher la liste détaillée de tous les fichiers et répertoires présents 
 ```
 ls -al
 ```
