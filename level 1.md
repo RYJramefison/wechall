@@ -5,6 +5,5 @@ cd /home/level/01_choice_tree/blue/hats/grey/solution/patience
 ```
 Regarder le contenu du fichier "SOLUTION.txt" qui se trouve dans ce dossier.
 ```ssh
-ls
 cat SOLUTION.txt
 ```
