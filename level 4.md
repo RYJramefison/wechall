@@ -3,7 +3,7 @@ Se déplacer vers "/home/level/04_kwisatz"
 ```ssh
 cd /home/level/04_kwisatz
 ```
-Regarder le contenu du fichier "README.nfo" dans ce réperoire
+Regarder le contenu du fichier "README.nfo" dans ce répertoire
 ```ssh
 cat README.nfo
     Look in your ~
