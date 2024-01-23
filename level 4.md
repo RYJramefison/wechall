@@ -16,7 +16,7 @@ Ensuite, il faut se naviguer vers "/home/user/juninho/level/04_kwisatz"
 ```ssh
 ~$ cd level/04_kwisatz/
 ```
-Enfin , obtenir le mot de passe dans le fichier "README2.md" d'aprés le fichier "README.txt"
+Enfin , vous trouverez le mot de passe dans le fichier "README2.md" d'aprés le fichier "README.txt"
 ```ssh
 cat README2.md
 ```
