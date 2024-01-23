@@ -1,5 +1,5 @@
 # level 3
-Naviguer dans le re pertoire "/home/level/03"
+Naviguer dans le répertoire "/home/level/03"
 ```ssh
 cd /home/level/03
 ```
