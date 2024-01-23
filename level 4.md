@@ -6,6 +6,8 @@ cd /home/level/04_kwisatz
 Regarder le contenu du fichier "README.nfo" dans ce répertoire
 ```ssh
 cat README.nfo
+```
+```ssh
     Look in your ~
 ```
 d'Après cette indication, allons dans le répertoire personnel "~" 
