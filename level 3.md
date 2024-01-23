@@ -6,4 +6,5 @@ cd /home/level/03
 Regarder le mot de passe dans le fichier caché "bash_history" après avoir verifier tous les composants de ce répertoire
 ```ssh
 ls -al
-cat .bash_history```
+cat .bash_history
+```
