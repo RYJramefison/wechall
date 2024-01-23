@@ -4,7 +4,7 @@ Naviguer jusqu'à "/home/level/05_privacy"
 cd /home/level/05_privacy
 ```
 Vérifier ce qu'il y a dans ce répertoire
-````ssh
+```ssh
 ls
 ```
 Voir le mot de passe dans le fichier "README.md"
