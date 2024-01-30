@@ -8,6 +8,6 @@ Check what's in this directory
 ls
 ```
 View password in "README.md" file
-```bash
+```ssh
 cat README.md
 ```
