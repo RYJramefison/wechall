@@ -1,4 +1,6 @@
-
+```
+<span style="color:blue">**cd**</span>
+```
 # Level 0
 Move to the " /home/level/00_weclome " directory
 ```ssh
