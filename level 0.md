@@ -1,14 +1,14 @@
 
 # Level 0
-Se déplacer dans le répertoire /home/level/00_weclome
+Move to the /home/level/00_weclome directory
 ```ssh
 cd /home/level/00_weclome
 ```
-Vérifier l'élément dans ce répertoire
+Check the item in this directory
 ```ssh
 ls
 ```
-Lire le contenu du fichier README.md
+Read the contents of README.md to see the password
 ```ssh
 cat README.md
 ```
