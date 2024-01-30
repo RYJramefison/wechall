@@ -1,5 +1,5 @@
 # level 1
-navigation until " patience " folder
+Navigation until " patience " folder
 ```ssh
 cd /home/level/01_choice_tree/blue/hats/grey/solution/patience
 ```
