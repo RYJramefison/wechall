@@ -1,8 +1,7 @@
 # level 5
 Navigate to `/home/level/05_privacy` directory
 ```ssh
-cd /home/level/05_privacy
-```
+cd /home/level/05_privacy```
 Vérifier ce qu'il y a dans ce répertoire
 ```ssh
 ls
