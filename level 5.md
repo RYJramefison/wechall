@@ -1,5 +1,5 @@
 # level 5
-Naviguer jusqu'à "/home/level/05_privacy"
+Navigate to "/home/level/05_privacy" directory
 ```ssh
 cd /home/level/05_privacy
 ```
