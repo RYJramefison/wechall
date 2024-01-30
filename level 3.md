@@ -1,9 +1,9 @@
 # level 3
-Naviguer dans le répertoire "/home/level/03"
+Navigate to the "/home/level/03" directory
 ```ssh
 cd /home/level/03
 ```
-Regarder le mot de passe dans le fichier caché "bash_history" après avoir vérifier tous les composants de ce répertoire
+Look for the password in the hidden "bash_history" file after checking all the components in this directory.
 ```ssh
 ls -al
 cat .bash_history
