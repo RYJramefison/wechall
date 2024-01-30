@@ -18,7 +18,7 @@ Then navigate to "/home/user/juninho/level/04_kwisatz"
 ```ssh
 ~$ cd level/04_kwisatz/
 ```
-Finally, you'll find the password in the "README2.md" file, based on the "README.txt" file.
+Finally, you'll find the password in the "README2.md" file, as indicated in the "README.txt" file
 ```ssh
 cat README2.md
 ```
