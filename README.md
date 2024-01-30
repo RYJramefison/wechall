@@ -11,13 +11,11 @@ Challenge link: https://www.wechall.net/challenge/warchall/begins/index.php
 #### WARCHALL INDICATION :
 
 Once you've connected to the remote server, the first indication is in the file ' WELCOME.md ' (in the home directory). This file contains the two directories you need to go to in order to find the solutions.
-```ssh
-/home/level
-```
+
+*/home/level*
 or
-```
-/home/user/yournick/level
-```
+*/home/user/yournick/level*
+
 **NB**: In order to solve these challenges, it's important to master the following basic commands :
 
   ls: Lists files and folders in the current directory.
