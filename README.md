@@ -17,7 +17,7 @@ or
 
 **NB**: In order to solve these challenges, it's important to master the following basic commands :
 
-  ‼ ls: Lists files and folders in the current directory.
+  -* ls: Lists files and folders in the current directory.
   - cd: Change directory.
   - pwd: Displays the absolute path of the current directory.
   - cat: Displays the contents of a file.
