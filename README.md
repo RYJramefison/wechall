@@ -12,9 +12,9 @@ or "putty" to access the challenge.
 
 Once you've connected to the remote server, the first indication is in the file ' WELCOME.md ' (in the home directory). This file contains the two directories you need to go to in order to find the solutions.
 
-*/home/level*
+`/home/level`
 or
-*/home/user/yournick/level*
+`/home/user/yournick/level`
 
 **NB**: In order to solve these challenges, it's important to master the following basic commands :
 
