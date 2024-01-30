@@ -1,9 +1,9 @@
 # level 1
-Naviguation jusqu'au dossier "patience"
+navigation until "patience" folder
 ```ssh
 cd /home/level/01_choice_tree/blue/hats/grey/solution/patience
 ```
-Regarder le contenu du fichier "SOLUTION.txt" qui se trouve dans ce dossier.
+Look at the contents of the file "SOLUTION.txt" in this folder to find the password
 ```ssh
 cat SOLUTION.txt
 ```
