@@ -8,7 +8,7 @@ Check the item in this directory
 ```ssh
 ls
 ```
-Read the contents of README.md to see the password
+Read the contents of README.md to obtain the password
 ```ssh
 cat README.md
 ```
