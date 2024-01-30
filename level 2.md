@@ -1,5 +1,5 @@
 # level 2
-Move to the "/home/level/02" directory
+Go to the "/home/level/02" directory
 ```ssh
 cd /home/level/02
 ```
