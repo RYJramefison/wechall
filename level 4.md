@@ -1,24 +1,24 @@
 # level 4
-Se déplacer vers "/home/level/04_kwisatz"
+Move to "/home/level/04_kwisatz"
 ```ssh
 cd /home/level/04_kwisatz
 ```
-Regarder le contenu du fichier "README.nfo" dans ce répertoire
+View the contents of the "README.nfo" file in this directory
 ```ssh
 cat README.nfo
 ```
 ```ssh
     Look in your ~
 ```
-d'Après cette indication, allons dans le répertoire personnel "~" 
+Following this indication, let's go to the "~" home directory 
 ```ssh
 /home/user/juninho
 ```
-Ensuite, il faut se naviguer vers "/home/user/juninho/level/04_kwisatz"
+Then navigate to "/home/user/juninho/level/04_kwisatz"
 ```ssh
 ~$ cd level/04_kwisatz/
 ```
-Enfin , vous trouverez le mot de passe dans le fichier "README2.md" d'aprés le fichier "README.txt"
+Finally, you'll find the password in the "README2.md" file, based on the "README.txt" file.
 ```ssh
 cat README2.md
 ```
