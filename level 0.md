@@ -1,6 +1,6 @@
 
 # Level 0
-Move to the " </home/level/00_weclome> " directory
+Move to the " </home/level/00_weclome " directory
 ```ssh
 cd /home/level/00_weclome
 ```
