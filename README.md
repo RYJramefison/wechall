@@ -8,7 +8,7 @@ or "putty" to access the challenge.
 
 Challenge link: https://www.wechall.net/challenge/warchall/begins/index.php
 
-> WARCHALL INDICATION :
+#### WARCHALL INDICATION :
 
 Once you've connected to the remote server, the first indication is in the file ' WELCOME.md ' (in the home directory). This file contains the two directories you need to go to in order to find the solutions.
 
