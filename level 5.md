@@ -1,4 +1,4 @@
-## level 5
+# level 5
 Navigate to "/home/level/05_privacy" directory
 ```ssh
 cd /home/level/05_privacy
@@ -8,6 +8,6 @@ Check what's in this directory
 ls
 ```
 View password in "README.md" file
-```ssh
+```bash
 cat README.md
 ```
